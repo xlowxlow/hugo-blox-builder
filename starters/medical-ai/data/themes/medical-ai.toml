@@ -1,0 +1,73 @@
+# Medical AI Theme
+# Custom color scheme optimized for healthcare AI applications
+name = "Medical AI"
+
+[light]
+  # Primary colors - Medical blue theme
+  primary = "#1565C0"
+  
+  # Menu colors
+  menu_primary = "#1565C0"     # Medical blue
+  menu_text = "#fff"
+  menu_text_active = "#00ACC1" # Healthcare cyan
+  menu_title = "#fff"
+  
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(248, 250, 252)"  # Light blue-gray
+  
+  # Text and link colors
+  text = "#1a202c"
+  text_light = "#4a5568"
+  link = "#1565C0"
+  link_hover = "#0D47A1"
+  
+  # Background colors
+  background = "#ffffff"
+  background_secondary = "#f7fafc"
+  
+  # Accent colors for AI/medical elements
+  accent_medical = "#00ACC1"    # Cyan for technology
+  accent_success = "#48BB78"    # Green for positive results
+  accent_warning = "#FF7043"    # Orange for attention
+  accent_error = "#E53E3E"      # Red for critical alerts
+  
+  # Card and component colors
+  card_background = "#ffffff"
+  card_border = "#e2e8f0"
+  card_shadow = "rgba(0, 0, 0, 0.1)"
+
+[dark]
+  # Primary colors - Dark medical theme
+  primary = "#2196F3"
+  
+  # Menu colors
+  menu_primary = "#1a202c"
+  menu_text = "#e2e8f0"
+  menu_text_active = "#00ACC1"
+  menu_title = "#ffffff"
+  
+  # Home sections
+  home_section_odd = "rgb(26, 32, 44)"
+  home_section_even = "rgb(45, 55, 72)"
+  
+  # Text and link colors
+  text = "#e2e8f0"
+  text_light = "#a0aec0"
+  link = "#63B3ED"
+  link_hover = "#3182CE"
+  
+  # Background colors
+  background = "#1a202c"
+  background_secondary = "#2d3748"
+  
+  # Accent colors for AI/medical elements
+  accent_medical = "#00E5FF"    # Bright cyan for dark mode
+  accent_success = "#68D391"    # Brighter green
+  accent_warning = "#FF8A65"    # Softer orange
+  accent_error = "#FC8181"      # Softer red
+  
+  # Card and component colors
+  card_background = "#2d3748"
+  card_border = "#4a5568"
+  card_shadow = "rgba(0, 0, 0, 0.3)"
